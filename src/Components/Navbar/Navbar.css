@@ -77,3 +77,8 @@
     
 
 }
+
+.nav-menu a {
+    text-decoration: none;
+    color: #626262;
+}
