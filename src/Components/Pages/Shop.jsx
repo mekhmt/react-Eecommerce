@@ -3,6 +3,8 @@ import Hero from '../Hero/Hero'
 import Popular from '../Popular/Popular'
 import { Offers } from '../Offers/Offers'
 import NewCollections from '../NewCollections/NewCollections'
+import NewsLetter from '../NewsLetter/NewsLetter'
+
 
 export default function Shop() {
   return (
@@ -11,6 +13,8 @@ export default function Shop() {
         <Popular/>
         <Offers/>
         <NewCollections/>
+        <NewsLetter/>
+        
     </div>
   )
 }
